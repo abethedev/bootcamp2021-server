@@ -6,7 +6,7 @@ This is a very simple Node Express application that serves as a web server. This
 - [Nodejs](https://www.digitalocean.com/community/tutorials/how-to-install-node-js-on-ubuntu-20-04)
 ## Run The Application
 
-Open the project in visual studio code
+Open the project in visual studio CODE
 
 ```
 $ npm run start
